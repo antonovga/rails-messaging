@@ -5,7 +5,7 @@ gemspec
 gem 'haml'
 gem 'devise'
 gem 'simple_form'
-gem 'mailboxer', git: 'git://github.com/dickeytk/mailboxer'
+gem 'mailboxer'
 gem 'carrierwave'
 gem "jquery-rails"
 gem 'coffee-rails'
